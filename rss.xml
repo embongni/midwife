@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+  <rss version="2.0"><channel> 
+				<title>AKBID | KARYA BUNDA HUSADA RSS</title> 
+				<link>http://localhost/akbidnew/</link> 
+				<image>
+				<url>http://localhost/akbidnew//asset/logo/logo-footer.png</url>
+				<link>http://localhost/akbidnew/</link>
+				<width>100</width>
+				<height>35</height>
+				</image>
+				<language>id-id</language>
